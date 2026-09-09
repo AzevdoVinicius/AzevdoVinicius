@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Vinicius Azevedo dos Santos, tenho 29 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia estou sempre em busca de aprender mais sobre **desenvolvimento web**, voltando meu estudos para o **Front-end**.
+Me chamo Vinicius Azevedo dos Santos, tenho 30 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia estou sempre em busca de aprender mais sobre **desenvolvimento web**, voltando meu estudos para o **Front-end**.
 
 <p align="left">
     <a href="https://github.com/AzevdoVinicius?tab=repositories&sort=stargazers">
@@ -48,14 +48,6 @@ Me chamo Vinicius Azevedo dos Santos, tenho 29 anos e sou natural de São Paulo.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
